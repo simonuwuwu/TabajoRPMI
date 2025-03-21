@@ -1,0 +1,111 @@
+.wireframei,
+.wireframei * {
+  box-sizing: border-box;
+}
+.wireframei {
+  ;
+  height: 720px;
+  position: relative;
+  overflow: hidden;
+}
+.fondo-jojos {
+  border-style: solid;
+  border-color: #b12f2f;
+  border-width: 1px;
+  width: 1354px;
+  height: 720px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 16/9;
+}
+.transparencia {
+  background: rgba(179, 108, 230, 0.57);
+  width: 1024px;
+  height: 1008px;
+  position: absolute;
+  left: 328px;
+  top: -45px;
+}
+.festival-de-animaci-n {
+  color: #f54696;
+  text-align: left;
+  font-family: "OleoScript-Regular", sans-serif;
+  font-family: "Oleo Script", system-ui;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 95px;
+  top: 182px;
+  width: 400px;
+  height: 81px;
+}
+.rectangulo-borde-dorado {
+  background: rgba(226, 123, 226, 0.62);
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #fedbac;
+  border-width: 10px;
+  width: 731px;
+  height: 737px;
+  position: absolute;
+  left: 82px;
+  top: 263px;
+  box-shadow: 7px 7px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.eeste-es-un-festival-de-la-serie-de-animaci-n-jo-jo-s-bizarre-adventure-en-este-festival-se-celebran-las-seis-partes-animadas-de-la-serie-y-se-dar-n-conferencias-por-miembros-del-equipo-de-animaci-n-entrando-en-detalles-sobre-el-estilo-art-stico-y-el-proceso-de-animaci-n-y-de-adaptaci-n-del-manga-original-por-hirojiko-araki {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OleoScript-Regular", sans-serif;
+  font-family: "Oleo Script", system-ui;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 118px;
+  top: 311px;
+  width: 671px;
+}
+.giorno {
+  width: 560px;
+  height: 720px;
+  position: absolute;
+  left: 793px;
+  top: 0px;
+  box-shadow: 15px 6px 8.6px 0px rgba(82, 57, 131, 0.64);
+  object-fit: cover;
+  aspect-ratio: 560/720;
+}
+.logo-jojo {
+  width: 444px;
+  height: 179px;
+  position: absolute;
+  left: 53px;
+  top: 3px;
+  aspect-ratio: 444/179;
+}
+.whiteframe-flecha {
+  width: 180px;
+  height: 82px;
+  position: absolute;
+  left: 1089px;
+  top: 628px;
+  overflow: hidden;
+}
+.flecha {
+  width: 53.21px;
+  height: 151.84px;
+  position: absolute;
+  left: 167.01px;
+  top: 17.3px;
+  transform-origin: 0 0;
+  transform: rotate(90.635deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 53.21/151.84;
+}
